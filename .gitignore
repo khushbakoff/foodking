@@ -1,0 +1,8 @@
+# .gitignore fayli
+build/
+.dart_tool/
+android/.cxx/
+ios/Flutter/Flutter.podspec
+.idea/
+.vscode/
+*.iml
